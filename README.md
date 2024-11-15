@@ -1,7 +1,7 @@
 <body>
     
 <link rel="stylesheet" href="форма.css">
-<form action="#" method="post" target="_blank">
+<form action="auth.php" method="post" target="_blank">
     <h1>Авторизация</h1>
           <input type="email" name="mail" placeholder="education email" id="email" required>
           <br>
